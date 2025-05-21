@@ -1,0 +1,92 @@
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\bin\Debug\net10.0\appsettings.json
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\bin\Debug\net10.0\calvary gtp.staticwebassets.runtime.json
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\bin\Debug\net10.0\calvary gtp.staticwebassets.endpoints.json
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\bin\Debug\net10.0\calvary gtp.exe
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\bin\Debug\net10.0\calvary gtp.deps.json
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\bin\Debug\net10.0\calvary gtp.runtimeconfig.json
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\bin\Debug\net10.0\calvary gtp.dll
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\bin\Debug\net10.0\calvary gtp.pdb
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\obj\Debug\net10.0\calvary gtp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\obj\Debug\net10.0\calvary gtp.AssemblyInfoInputs.cache
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\obj\Debug\net10.0\calvary gtp.AssemblyInfo.cs
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\obj\Debug\net10.0\calvary gtp.csproj.CoreCompileInputs.cache
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\obj\Debug\net10.0\calvary gtp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\obj\Debug\net10.0\calvary gtp.RazorAssemblyInfo.cache
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\obj\Debug\net10.0\calvary gtp.RazorAssemblyInfo.cs
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\obj\Debug\net10.0\scopedcss\bundle\calvary gtp.styles.css
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\obj\Debug\net10.0\scopedcss\projectbundle\calvary gtp.bundle.scp.css
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\obj\Debug\net10.0\compressed\wrxthh279o-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\obj\Debug\net10.0\compressed\l106d9uhxk-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\obj\Debug\net10.0\compressed\tu23tnszbl-{0}-wqqe4ucakv-wqqe4ucakv.gz
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\obj\Debug\net10.0\compressed\6tvqvr9z7t-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\obj\Debug\net10.0\compressed\h7x7riosxq-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\obj\Debug\net10.0\compressed\ddjzfob391-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\obj\Debug\net10.0\compressed\o8h1lycwcn-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\obj\Debug\net10.0\compressed\30ojcddpaa-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\obj\Debug\net10.0\compressed\zari75o5xu-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\obj\Debug\net10.0\compressed\ye53vuo9ga-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\obj\Debug\net10.0\compressed\0kyxzisywp-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\obj\Debug\net10.0\compressed\wx7lqee37j-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\obj\Debug\net10.0\compressed\ppavit4efs-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\obj\Debug\net10.0\compressed\1x2jkqvd86-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\obj\Debug\net10.0\compressed\24648gu09c-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\obj\Debug\net10.0\compressed\gw3td1ob28-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\obj\Debug\net10.0\compressed\ermujphkxc-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\obj\Debug\net10.0\compressed\w5w04495i9-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\obj\Debug\net10.0\compressed\1unert24y1-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\obj\Debug\net10.0\compressed\9kv1tuz94a-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\obj\Debug\net10.0\compressed\zrzkr2vzmx-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\obj\Debug\net10.0\compressed\xm58uwvf0p-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\obj\Debug\net10.0\compressed\zkhelqe8zj-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\obj\Debug\net10.0\compressed\dxghdotbec-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\obj\Debug\net10.0\compressed\e63v9uouve-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\obj\Debug\net10.0\compressed\oooo3a2bmm-{0}-06098lyss8-06098lyss8.gz
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\obj\Debug\net10.0\compressed\45wvygvee1-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\obj\Debug\net10.0\compressed\63kqfy3yxz-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\obj\Debug\net10.0\compressed\1znw9pmecf-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\obj\Debug\net10.0\compressed\4n65kuabd7-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\obj\Debug\net10.0\compressed\l71t8s5ysc-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\obj\Debug\net10.0\compressed\bs569qwzvs-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\obj\Debug\net10.0\compressed\50jmnk8lhv-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\obj\Debug\net10.0\compressed\662ekupfmx-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\obj\Debug\net10.0\compressed\7gwsmotmos-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\obj\Debug\net10.0\compressed\zi6cabnnta-{0}-5f2fokeldl-5f2fokeldl.gz
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\obj\Debug\net10.0\compressed\ea69lejmr1-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\obj\Debug\net10.0\compressed\stug2yu4y1-{0}-5mprlsq8ts-5mprlsq8ts.gz
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\obj\Debug\net10.0\compressed\gzz7o5frnk-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\obj\Debug\net10.0\compressed\9b143mygro-{0}-pa3m0zyj9g-pa3m0zyj9g.gz
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\obj\Debug\net10.0\compressed\lmetgv4740-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\obj\Debug\net10.0\compressed\2lsf3pz4cv-{0}-h3yqvma8or-h3yqvma8or.gz
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\obj\Debug\net10.0\compressed\hhcu9j5jyb-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\obj\Debug\net10.0\compressed\96adqeqizd-{0}-dyqbae69gp-dyqbae69gp.gz
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\obj\Debug\net10.0\compressed\2eg2cipgje-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\obj\Debug\net10.0\compressed\l33rttehh8-{0}-ct1zm5xhli-ct1zm5xhli.gz
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\obj\Debug\net10.0\compressed\27xqe5wt9d-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\obj\Debug\net10.0\compressed\qxwbxy1k26-{0}-ylprzrezdx-ylprzrezdx.gz
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\obj\Debug\net10.0\compressed\5n1fmeprov-{0}-bkrnu8ehlb-bkrnu8ehlb.gz
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\obj\Debug\net10.0\compressed\80bx06soi8-{0}-356vix0kms-356vix0kms.gz
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\obj\Debug\net10.0\compressed\wuor1w8i6d-{0}-x4vk25h91v-x4vk25h91v.gz
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\obj\Debug\net10.0\compressed\8hzqdhg129-{0}-9x5f6mbw6l-9x5f6mbw6l.gz
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\obj\Debug\net10.0\compressed\7hx6fo1gy0-{0}-i0b7b553oj-i0b7b553oj.gz
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\obj\Debug\net10.0\compressed\6vz53foe5n-{0}-g908jdkvi7-g908jdkvi7.gz
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\obj\Debug\net10.0\compressed\zdapdoq11e-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\obj\Debug\net10.0\compressed\m206sa5imv-{0}-6kmvbbezmp-6kmvbbezmp.gz
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\obj\Debug\net10.0\compressed\saw1fqag17-{0}-0yr1mequi1-0yr1mequi1.gz
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\obj\Debug\net10.0\compressed\50axcqti4a-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\obj\Debug\net10.0\compressed\stkmij9588-{0}-6i1pd6ltct-6i1pd6ltct.gz
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\obj\Debug\net10.0\compressed\736fbegvrw-{0}-q27ny513uh-q27ny513uh.gz
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\obj\Debug\net10.0\compressed\d8e2ndunpo-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\obj\Debug\net10.0\compressed\2wobxayn8t-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\obj\Debug\net10.0\compressed\usyqd6bvc0-{0}-r16or76atr-r16or76atr.gz
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\obj\Debug\net10.0\compressed\m80ntvm4nk-{0}-r16or76atr-r16or76atr.gz
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\obj\Debug\net10.0\calvary gtp.dll
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\obj\Debug\net10.0\refint\calvary gtp.dll
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\obj\Debug\net10.0\calvary gtp.pdb
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\obj\Debug\net10.0\calvary gtp.genruntimeconfig.cache
+C:\Users\David.Munoz\OneDrive - Calvary Christian College\Documents\Python Scripts\GPT 2\calvary gtp\obj\Debug\net10.0\ref\calvary gtp.dll
